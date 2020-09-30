@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 * 🤔 I’m looking for help with ... TensorFlow
 * 💬 Ask me about ... Anything
 * 📫 How to reach me: ...<a href="https://www.linkedin.com/in/abordanpeter">
-  <img alt="Linkein icon | CodeSandbox" width="100px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
+  <img alt="Linkein icon | CodeSandbox" width="80px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
 </a>
 * ⚡ Fun fact: ... I'm Hungarian 
 
