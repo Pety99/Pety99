@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Pety99/Pety99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 </a>
 * 😄 Pronouns: ...
 * ⚡ Fun fact: ...
--->
+
