@@ -6,5 +6,5 @@
 * ###### 👯 I’m looking to collaborate on ...
 * ###### 🤔 I’m looking for help with ... TensorFlow
 * ###### 💬 Ask me about ... Anything
-* ###### 📫 How to reach me: ...<a href="https://www.linkedin.com/in/abordanpeter"><img align="center" alt="React" width="70px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" /></a>
+* ###### 📫 How to reach me: ...  <a href="https://www.linkedin.com/in/abordanpeter"><img align="center" alt="React" width="70px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" /></a>
 * ###### ⚡ Fun fact: ... I'm Hungarian 
